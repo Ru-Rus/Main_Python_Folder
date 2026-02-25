@@ -1,0 +1,54 @@
+
+Date: 2026-02-24 11:57:36.390173
+
+BMI: 30.08
+Category: Severely overweight
+
+Maintenance Calories: 2860 kcal
+Mild Fat Loss: 2560 kcal
+Aggressive Fat Loss: 2360 kcal
+
+Target Weight (BMI 22): 65.1 kg
+
+--------------------------
+
+Date: 2026-02-24 11:58:55.962029
+
+BMI: 18.73
+Category: Healthy
+
+Maintenance Calories: 1779 kcal
+Mild Fat Loss: 1479 kcal
+Aggressive Fat Loss: 1279 kcal
+
+Target Weight (BMI 22): 52.9 kg
+
+--------------------------
+
+Date: 2026-02-24 13:12:12.601123
+
+BMI: 30.08
+Category: Severely Overweight
+
+Maintenance: 2860 kcal
+Mild Fat Loss: 2560 kcal
+Aggressive Fat Loss: 2360 kcal
+
+Target Weight (BMI 22): 65.1 kg
+
+----------------------
+
+Date: 2026-02-24 13:17:11.938769
+
+BMI: 22.06
+Category: Healthy
+
+Steps: 8000 (Moderate)
+
+Maintenance: 2435 kcal
+Mild Fat Loss: 2135 kcal
+Aggressive Fat Loss: 1935 kcal
+
+Target Weight (BMI 22): 62.8 kg
+
+----------------------
